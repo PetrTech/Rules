@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Rule 1
 
-You can use the [editor on GitHub](https://github.com/PetrTech/Unixity-Server-Rules/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+No attacking people with innapropriate words.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Rule 2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+No racism is allowed in this server, if you are caught being racist to someone, you will be immediately muted with a warning.
 
-```markdown
-Syntax highlighted code block
+## Rule 3
 
-# Header 1
-## Header 2
-### Header 3
+Following the Staff is important too, but only follow them when they are not abusing their powers such as muting freely and ranking everyone or their friends only high ranks, this is also called as Admin Abuse (Permissions Abuse).
 
-- Bulleted
-- List
+## Rule 4
 
-1. Numbered
-2. List
+Do not Cyber-Bully anyone, this rule is similar to 1 and 2.
 
-**Bold** and _Italic_ and `Code` text
+## Rule 5
 
-[Link](url) and ![Image](src)
-```
+Follow all these rules as said again.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Rule 6
 
-### Jekyll Themes
+No Free-Advertising is allowed unless allowed by the Owner or any other Staff Member.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PetrTech/Unixity-Server-Rules/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Rule 7
 
-### Support or Contact
+Do not raid this server or spam.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Rule 8
+
+Do not rage and attempt to do more stuff against the rules.
+
+## Rule 9
+
+No NSFW allowed of course.
+
+## Rule 10
+
+No talking about abusing the unixity software licensing system
